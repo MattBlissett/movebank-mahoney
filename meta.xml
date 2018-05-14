@@ -13,6 +13,7 @@
     <field index="7" term="http://rs.tdwg.org/dwc/terms/locality"/>
     <field index="8" term="http://rs.tdwg.org/dwc/terms/geodeticDatum"/>
     <field index="9" term="http://rs.tdwg.org/dwc/terms/footprintWKT"/>
+    <field default="US" term="http://rs.tdwg.org/dwc/terms/countryCode"/>
   </core>
   <extension encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\r" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Occurrence">
     <files>
