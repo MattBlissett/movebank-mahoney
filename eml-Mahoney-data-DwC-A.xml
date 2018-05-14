@@ -2,10 +2,10 @@
          xmlns:dc="http://purl.org/dc/terms/"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
-         packageId="DRAFT-NOT-YET-AVAILABLE" system="http://gbif.org" scope="system"
+         packageId="move.588" system="https://www.datarepository.movebank.org" scope="system"
          xml:lang="eng">
 <dataset>
-  <alternateIdentifier>DRAFT-NOT-YET-AVAILABLE</alternateIdentifier>
+  <alternateIdentifier>doi:10.5441/001/1.7d8301h2</alternateIdentifier>
   <title xml:lang="eng">Cougar and coyote GPS telemetry, Utah/Idaho USA (OBIS-ENV-DATA example)</title>
       <creator>
     <individualName>
@@ -146,10 +146,10 @@
   <additionalMetadata>
     <metadata>
       <gbif>
-        <dateStamp>2DRAFT-NOT-YET-AVAILABLE</dateStamp>
+        <dateStamp>DRAFT-NOT-YET-AVAILABLE</dateStamp>
            <hierarchyLevel>dataset</hierarchyLevel>
-            <citation identifier="dx.doi.org/10.1111/2041-210X.12658">Mahoney PJ, Young JK (2016) Uncovering behavioural states from animal activity and site fidelity patterns. Methods in Ecology and Evolution 8(2): 174–183. doi:10.1111/2041-210X.12658</citation>
-            <citation identifier="dx.doi.org/10.5441/001/1.7d8301h2">Mahoney PJ, Ebinger M, Jaeger M, Shivik JA, Young JK (2017) Data from: Uncovering behavioural states from animal activity and site fidelity patterns. Movebank Data Repository. doi:10.5441/001/1.7d8301h2</citation>
+            <citation identifier="doi:10.1111/2041-210X.12658">Mahoney PJ, Young JK (2016) Uncovering behavioural states from animal activity and site fidelity patterns. Methods in Ecology and Evolution 8(2): 174–183. doi:10.1111/2041-210X.12658</citation>
+            <citation identifier="doi:10.5441/001/1.7d8301h2">Mahoney PJ, Ebinger M, Jaeger M, Shivik JA, Young JK (2017) Data from: Uncovering behavioural states from animal activity and site fidelity patterns. Movebank Data Repository. doi:10.5441/001/1.7d8301h2</citation>
       </gbif>
     </metadata>
   </additionalMetadata>
