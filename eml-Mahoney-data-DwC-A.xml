@@ -31,11 +31,13 @@
         <givenName>Michael</givenName>
       <surName>Jaeger</surName>
     </individualName>
+      </creator>
       <creator>
     <individualName>
         <givenName>John A.</givenName>
       <surName>Shivik</surName>
     </individualName>
+      </creator>
       <creator>
     <individualName>
         <givenName>Julie K.</givenName>
@@ -48,6 +50,7 @@
         <administrativeArea>Utah</administrativeArea>
         <country>USA</country>
     </address>
+      </creator>
       <metadataProvider>
     <individualName>
         <givenName>Sarah C.</givenName>
