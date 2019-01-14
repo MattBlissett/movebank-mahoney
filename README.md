@@ -9,17 +9,25 @@ The dataset used is [the example from the TDWG dwc-for-biologging group](https:/
 ## Usage
 
 1. (Optional) Set up a Python virtual environment, so you can throw all this away later:
-   `python3 -m venv cougars`
-   `source cougars/bin/activate`
+```
+   python3 -m venv cougars
+   source cougars/bin/activate
+```
 
 2. Install necessary Python modules
-   `pip install -r requirements.txt`
+```
+   pip install -r requirements.txt
+```
 
 3. Run the script:
-   `python summarize.py`
+```
+   python summarize.py
+```
 
 4. Zip the result:
-   `zip mahoney.zip meta.xml eml-Mahoney-data-DwC-A.xml event.txt occurrence.txt extendedmeasurementorfact.txt`
+```
+   zip mahoney.zip meta.xml eml-Mahoney-data-DwC-A.xml event.txt occurrence.txt extendedmeasurementorfact.txt
+```
 
 5. Send to GBIF!
 
