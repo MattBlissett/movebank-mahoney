@@ -40,6 +40,7 @@
     <field index="17" term="http://rs.tdwg.org/dwc/terms/scientificName"/>
     <field index="18" term="http://rs.tdwg.org/dwc/terms/taxonRank"/>
     <field index="19" term="http://rs.tdwg.org/dwc/terms/footprintWKT"/>
+    <field default="US" term="http://rs.tdwg.org/dwc/terms/countryCode"/>
   </extension>
   <extension encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\r" fieldsEnclosedBy="&quot;" ignoreHeaderLines="1" rowType="http://rs.iobis.org/obis/terms/ExtendedMeasurementOrFact">
     <files>
